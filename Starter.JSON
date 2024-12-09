@@ -7,50 +7,6 @@
     "StarterFact1": "Charmander’s flame is an indication of its health.",
     "StarterFact2": "If the flame goes out, it dies.",
     "StarterFact3": "Charmander is known for its tail flame.",
-    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/ember.mp3",
-    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
-    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
-  },
-  {
-    "StarterName": "Bulbasaur",
-    "StarterTitle": "Seed Pokémon",
-    "StarterType": "Grass/Poison",
-    "StarterEvolutionLevel": 16,
-    "StarterFact1": "Bulbasaur can be seen napping in bright sunlight.",
-    "StarterFact2": "It uses the energy from the sun to grow.",
-    "StarterFact3": "Bulbasaur is the first Pokémon in the National Pokédex.",
-    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/vine_whip.mp3",
-    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur",
-    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/bulbasaur.png"
-  },
-  {
-    "StarterName": "Squirtle",
-    "StarterTitle": "Tiny Turtle Pokémon",
-    "StarterType": "Water",
-    "StarterEvolutionLevel": 16,
-    "StarterFact1": "Squirtle's shell is hard, which protects it.",
-    "StarterFact2": "It can spray water from its mouth.",
-    "StarterFact3": "Squirtle is popular due to its cute appearance.",
-    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/water_gun.mp3",
-    "StarterSite": "https://bulbapedia.bulbag
-
-You said:
-Keep the capitals and spaces instead of underscores
-ChatGPT said:
-ChatGPT
-Sure! Here's the updated JSON structure with the capitals and spaces retained in the move names (instead of underscores):
-
-json
-Copy code
-[
-  {
-    "StarterName": "Charmander",
-    "StarterTitle": "Lizard Pokémon",
-    "StarterType": "Fire",
-    "StarterEvolutionLevel": 16,
-    "StarterFact1": "Charmander’s flame is an indication of its health.",
-    "StarterFact2": "If the flame goes out, it dies.",
-    "StarterFact3": "Charmander is known for its tail flame.",
     "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
     "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
     "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
