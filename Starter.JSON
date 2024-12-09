@@ -1,0 +1,298 @@
+[
+  {
+    "StarterName": "Charmander",
+    "StarterTitle": "Lizard Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Charmander’s flame is an indication of its health.",
+    "StarterFact2": "If the flame goes out, it dies.",
+    "StarterFact3": "Charmander is known for its tail flame.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
+  },
+  {
+    "StarterName": "Bulbasaur",
+    "StarterTitle": "Seed Pokémon",
+    "StarterType": "Grass/Poison",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Bulbasaur can be seen napping in bright sunlight.",
+    "StarterFact2": "It uses the energy from the sun to grow.",
+    "StarterFact3": "Bulbasaur is the first Pokémon in the National Pokédex.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/vine_whip.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/bulbasaur.png"
+  },
+  {
+    "StarterName": "Squirtle",
+    "StarterTitle": "Tiny Turtle Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Squirtle's shell is hard, which protects it.",
+    "StarterFact2": "It can spray water from its mouth.",
+    "StarterFact3": "Squirtle is popular due to its cute appearance.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/water_gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbag
+
+You said:
+Keep the capitals and spaces instead of underscores
+ChatGPT said:
+ChatGPT
+Sure! Here's the updated JSON structure with the capitals and spaces retained in the move names (instead of underscores):
+
+json
+Copy code
+[
+  {
+    "StarterName": "Charmander",
+    "StarterTitle": "Lizard Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Charmander’s flame is an indication of its health.",
+    "StarterFact2": "If the flame goes out, it dies.",
+    "StarterFact3": "Charmander is known for its tail flame.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
+  },
+  {
+    "StarterName": "Bulbasaur",
+    "StarterTitle": "Seed Pokémon",
+    "StarterType": "Grass/Poison",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Bulbasaur can be seen napping in bright sunlight.",
+    "StarterFact2": "It uses the energy from the sun to grow.",
+    "StarterFact3": "Bulbasaur is the first Pokémon in the National Pokédex.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Vine Whip.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Bulbasaur",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/bulbasaur.png"
+  },
+  {
+    "StarterName": "Squirtle",
+    "StarterTitle": "Tiny Turtle Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Squirtle's shell is hard, which protects it.",
+    "StarterFact2": "It can spray water from its mouth.",
+    "StarterFact3": "Squirtle is popular due to its cute appearance.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Squirtle",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/squirtle.png"
+  },
+  {
+    "StarterName": "Cyndaquil",
+    "StarterTitle": "Fire Mouse Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Cyndaquil protects its back with fire.",
+    "StarterFact2": "When it's happy, its back flame burns brightly.",
+    "StarterFact3": "Cyndaquil can create intense heat.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Cyndaquil",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/cyndaquil.png"
+  },
+  {
+    "StarterName": "Totodile",
+    "StarterTitle": "Big Jaw Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 18,
+    "StarterFact1": "Totodile's bite is strong.",
+    "StarterFact2": "It loves to splash around.",
+    "StarterFact3": "Totodile is playful and likes to show off.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Totodile",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/totodile.png"
+  },
+  {
+    "StarterName": "Chikorita",
+    "StarterTitle": "Leaf Pokémon",
+    "StarterType": "Grass",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Chikorita loves to bask in the sunlight.",
+    "StarterFact2": "Its scent can soothe tired people.",
+    "StarterFact3": "Chikorita can be used to track its trainers.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Razor Leaf.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Chikorita",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/chikorita.png"
+  },
+  {
+    "StarterName": "Mudkip",
+    "StarterTitle": "Mud Fish Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Mudkip can sense water.",
+    "StarterFact2": "It can swim in the mud.",
+    "StarterFact3": "Mudkip’s fins can absorb water.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Mudkip",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/mudkip.png"
+  },
+  {
+    "StarterName": "Treecko",
+    "StarterTitle": "Tree Pokémon",
+    "StarterType": "Grass",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Treecko can scale trees with ease.",
+    "StarterFact2": "It has excellent agility.",
+    "StarterFact3": "Treecko can detect rain.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Absorb.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Treecko",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/treecko.png"
+  },
+  {
+    "StarterName": "Torchic",
+    "StarterTitle": "Chick Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Torchic can spit fire.",
+    "StarterFact2": "It’s warm and cuddly.",
+    "StarterFact3": "Torchic is known for its tenacity.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Torchic",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/torchic.png"
+  },
+  {
+    "StarterName": "Turtwig",
+    "StarterTitle": "Tiny Leaf Pokémon",
+    "StarterType": "Grass",
+    "StarterEvolutionLevel": 18,
+    "StarterFact1": "Turtwig is known to be very determined.",
+    "StarterFact2": "It can photosynthesize.",
+    "StarterFact3": "Turtwig has a sturdy shell.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Razor Leaf.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Turtwig",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/turtwig.png"
+  },
+  {
+    "StarterName": "Chimchar",
+    "StarterTitle": "Chimp Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 14,
+    "StarterFact1": "Chimchar has a flame on its rear.",
+    "StarterFact2": "It can create flames by rubbing its hands.",
+    "StarterFact3": "Chimchar is energetic and playful.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Chimchar",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/chimchar.png"
+  },
+  {
+    "StarterName": "Piplup",
+    "StarterTitle": "Penguin Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Piplup loves to swim.",
+    "StarterFact2": "It can walk on its two feet.",
+    "StarterFact3": "Piplup is proud and does not like to be dirty.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Bubble.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Piplup",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/piplup.png"
+  },
+  {
+    "StarterName": "Tepig",
+    "StarterTitle": "Fire Pig Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Tepig loves to eat.",
+    "StarterFact2": "It can create fire from its back.",
+    "StarterFact3": "Tepig is playful and loves to play in the mud.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Tepig",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/tepig.png"
+  },
+  {
+    "StarterName": "Snivy",
+    "StarterTitle": "Grass Snake Pokémon",
+    "StarterType": "Grass",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Snivy is elegant and moves gracefully.",
+    "StarterFact2": "It can take in sunlight to increase its energy.",
+    "StarterFact3": "Snivy is known for its cunning.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Vine Whip.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Snivy",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/snivy.png"
+  },
+  {
+    "StarterName": "Oshawott",
+    "StarterTitle": "Sea Otter Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Oshawott is known for its playful nature.",
+    "StarterFact2": "It can use its shell as a weapon.",
+    "StarterFact3": "Oshawott loves to play in the water.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Oshawott",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/oshawott.png"
+  },
+  {
+    "StarterName": "Chespin",
+    "StarterTitle": "Spiny Nut Pokémon",
+    "StarterType": "Grass",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Chespin is protective of its friends.",
+    "StarterFact2": "It can curl into a ball to protect itself.",
+    "StarterFact3": "Chespin loves to forage for food.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Leafage.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Chespin",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/chespin.png"
+  },
+  {
+    "StarterName": "Fennekin",
+    "StarterTitle": "Fox Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Fennekin's ears can detect sound.",
+    "StarterFact2": "It loves to eat twigs.",
+    "StarterFact3": "Fennekin can produce fire from its ears.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Fennekin",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/fennekin.png"
+  },
+  {
+    "StarterName": "Froakie",
+    "StarterTitle": "Bubble Frog Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 16,
+    "StarterFact1": "Froakie is agile in the water.",
+    "StarterFact2": "It can produce bubbles to defend itself.",
+    "StarterFact3": "Froakie has a strong sense of smell.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Bubble.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Froakie",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/froakie.png"
+  },
+  {
+    "StarterName": "Popplio",
+    "StarterTitle": "Sea Lion Pokémon",
+    "StarterType": "Water",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Popplio loves to perform tricks.",
+    "StarterFact2": "It can create balloons from water.",
+    "StarterFact3": "Popplio enjoys playing in the waves.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Popplio",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/popplio.png"
+  },
+  {
+    "StarterName": "Rowlet",
+    "StarterTitle": "Grass Quill Pokémon",
+    "StarterType": "Grass/Flying",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Rowlet can silently fly.",
+    "StarterFact2": "It can shoot its feathers like arrows.",
+    "StarterFact3": "Rowlet sleeps while it is perched.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Leafage.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Rowlet",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/rowlet.png"
+  },
+  {
+    "StarterName": "Litten",
+    "StarterTitle": "Fire Cat Pokémon",
+    "StarterType": "Fire",
+    "StarterEvolutionLevel": 17,
+    "StarterFact1": "Litten is known for its independence.",
+    "StarterFact2": "It prefers to stay alone.",
+    "StarterFact3": "Litten’s fur can be used to create flames.",
+    "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+    "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Litten",
+    "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/litten.png"
+  }
+]
