@@ -2,18 +2,6 @@
   "Starters":
   [
     {
-      "StarterName": "Charmander",
-      "StarterTitle": "Lizard Pokémon",
-      "StarterType": "Fire",
-      "StarterEvolutionLevel": 16,
-      "StarterFact1": "Charmander’s flame is an indication of its health.",
-      "StarterFact2": "If the flame goes out, it dies.",
-      "StarterFact3": "Charmander is known for its tail flame.",
-      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
-      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
-      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
-    },
-    {
       "StarterName": "Bulbasaur",
       "StarterTitle": "Seed Pokémon",
       "StarterType": "Grass/Poison",
@@ -26,6 +14,18 @@
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/bulbasaur.png"
     },
     {
+      "StarterName": "Charmander",
+      "StarterTitle": "Lizard Pokémon",
+      "StarterType": "Fire",
+      "StarterEvolutionLevel": 16,
+      "StarterFact1": "Charmander’s flame is an indication of its health.",
+      "StarterFact2": "If the flame goes out, it dies.",
+      "StarterFact3": "Charmander is known for its tail flame.",
+      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Charmander",
+      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/charmander.png"
+    },
+    {
       "StarterName": "Squirtle",
       "StarterTitle": "Tiny Turtle Pokémon",
       "StarterType": "Water",
@@ -36,6 +36,18 @@
       "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
       "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Squirtle",
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/squirtle.png"
+    },
+    {
+      "StarterName": "Chikorita",
+      "StarterTitle": "Leaf Pokémon",
+      "StarterType": "Grass",
+      "StarterEvolutionLevel": 16,
+      "StarterFact1": "Chikorita loves to bask in the sunlight.",
+      "StarterFact2": "Its scent can soothe tired people.",
+      "StarterFact3": "Chikorita can be used to track its trainers.",
+      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Razor Leaf.mp3",
+      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Chikorita",
+      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/chikorita.png"
     },
     {
       "StarterName": "Cyndaquil",
@@ -62,30 +74,6 @@
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/totodile.png"
     },
     {
-      "StarterName": "Chikorita",
-      "StarterTitle": "Leaf Pokémon",
-      "StarterType": "Grass",
-      "StarterEvolutionLevel": 16,
-      "StarterFact1": "Chikorita loves to bask in the sunlight.",
-      "StarterFact2": "Its scent can soothe tired people.",
-      "StarterFact3": "Chikorita can be used to track its trainers.",
-      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Razor Leaf.mp3",
-      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Chikorita",
-      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/chikorita.png"
-    },
-    {
-      "StarterName": "Mudkip",
-      "StarterTitle": "Mud Fish Pokémon",
-      "StarterType": "Water",
-      "StarterEvolutionLevel": 16,
-      "StarterFact1": "Mudkip can sense water.",
-      "StarterFact2": "It can swim in the mud.",
-      "StarterFact3": "Mudkip’s fins can absorb water.",
-      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
-      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Mudkip",
-      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/mudkip.png"
-    },
-    {
       "StarterName": "Treecko",
       "StarterTitle": "Tree Pokémon",
       "StarterType": "Grass",
@@ -108,6 +96,18 @@
       "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
       "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Torchic",
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/torchic.png"
+    },
+    {
+      "StarterName": "Mudkip",
+      "StarterTitle": "Mud Fish Pokémon",
+      "StarterType": "Water",
+      "StarterEvolutionLevel": 16,
+      "StarterFact1": "Mudkip can sense water.",
+      "StarterFact2": "It can swim in the mud.",
+      "StarterFact3": "Mudkip’s fins can absorb water.",
+      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Mudkip",
+      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/mudkip.png"
     },
     {
       "StarterName": "Turtwig",
@@ -146,18 +146,6 @@
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/piplup.png"
     },
     {
-      "StarterName": "Tepig",
-      "StarterTitle": "Fire Pig Pokémon",
-      "StarterType": "Fire",
-      "StarterEvolutionLevel": 17,
-      "StarterFact1": "Tepig loves to eat.",
-      "StarterFact2": "It can create fire from its back.",
-      "StarterFact3": "Tepig is playful and loves to play in the mud.",
-      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
-      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Tepig",
-      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/tepig.png"
-    },
-    {
       "StarterName": "Snivy",
       "StarterTitle": "Grass Snake Pokémon",
       "StarterType": "Grass",
@@ -168,6 +156,18 @@
       "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Vine Whip.mp3",
       "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Snivy",
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/snivy.png"
+    },
+    {
+      "StarterName": "Tepig",
+      "StarterTitle": "Fire Pig Pokémon",
+      "StarterType": "Fire",
+      "StarterEvolutionLevel": 17,
+      "StarterFact1": "Tepig loves to eat.",
+      "StarterFact2": "It can create fire from its back.",
+      "StarterFact3": "Tepig is playful and loves to play in the mud.",
+      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Ember.mp3",
+      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Tepig",
+      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/tepig.png"
     },
     {
       "StarterName": "Oshawott",
@@ -218,18 +218,6 @@
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/froakie.png"
     },
     {
-      "StarterName": "Popplio",
-      "StarterTitle": "Sea Lion Pokémon",
-      "StarterType": "Water",
-      "StarterEvolutionLevel": 17,
-      "StarterFact1": "Popplio loves to perform tricks.",
-      "StarterFact2": "It can create balloons from water.",
-      "StarterFact3": "Popplio enjoys playing in the waves.",
-      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
-      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Popplio",
-      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/popplio.png"
-    },
-    {
       "StarterName": "Rowlet",
       "StarterTitle": "Grass Quill Pokémon",
       "StarterType": "Grass/Flying",
@@ -240,6 +228,18 @@
       "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Leafage.mp3",
       "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Rowlet",
       "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/rowlet.png"
+    },
+    {
+      "StarterName": "Popplio",
+      "StarterTitle": "Sea Lion Pokémon",
+      "StarterType": "Water",
+      "StarterEvolutionLevel": 17,
+      "StarterFact1": "Popplio loves to perform tricks.",
+      "StarterFact2": "It can create balloons from water.",
+      "StarterFact3": "Popplio enjoys playing in the waves.",
+      "StarterMove": "https://github.com/rdirie/IT315Project2Files/raw/main/Water Gun.mp3",
+      "StarterSite": "https://bulbapedia.bulbagarden.net/wiki/Popplio",
+      "StarterImage": "https://github.com/rdirie/IT315Project2Files/raw/main/popplio.png"
     },
     {
       "StarterName": "Litten",
